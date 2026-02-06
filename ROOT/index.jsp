@@ -24,7 +24,7 @@ response.setCharacterEncoding("UTF-8");
 
         body {
             font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", sans-serif;
-            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            background: linear-gradient(135deg, #ff5858 0%, #ff5858 100%);
             min-height: 100vh;
             display: flex;
             align-items: center;
